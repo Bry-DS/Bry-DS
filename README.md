@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-Hi! I'm Bryan, an Actuary with a passion for Data Science, Business Analytics, and Data Governance. I love exploring data, building predictive models, and ensuring data integrity. My experience spans the banking, insurance, and retail sectors. Let's create something amazing together!
+Hi! I'm Bryan, an Actuary with a passion for Data Science, Business Analytics, and Data Governance. I love exploring data, building predictive or classification models, and generate value with my work. Let's create something amazing together!
 
 ## About Me
 
-I'm passionate about data science and always eager to collaborate and share my knowledge. My projects focus on predictive modeling, algorithm optimization, and data visualization. With a background in banking, insurance, and retail, I ensure data integrity and compliance. Continuously striving to enhance my skills, I'm excited to create impactful solutions together!
+I'm passionate about data science and always eager to collaborate and share my knowledge. My projects focus on predictive modeling, classification, algorithm optimization, data visualization, and IA implementation. Continuously striving to enhance my skills, I'm excited to create impactful solutions together!
 
 ## Skills & Technologies
 
