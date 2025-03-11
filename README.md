@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Bry-DS/Bry-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bry, a passionate data science enthusiast. I love exploring predictive models, optimizing algorithms, and creating insightful data visualizations. Let's dive into the world of data together!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am focused on expanding my skills in data science and machine learning. I am based in the digital realm with a keen interest in exploring innovative tech solutions. While I don’t have a specific company or location to mention, I am always eager to connect with like-minded individuals!
+
+## Skills & Technologies
+
+tensorflow,docker,git,github,pytorch
+
+## Top Projects
+
+- [Bry-DS](https://github.com/Bry-DS/Bry-DS): A collection of data science, machine learning, and AI projects. Explore predictive models, algorithm optimization, and data visualizations. ⭐ 0 stars | Primary Language: Not Specified | Forks: 0 | Issues: 0
